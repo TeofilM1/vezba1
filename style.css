@@ -1,0 +1,24 @@
+.navbar-color li a {
+    color: black;
+    margin-right: 30px;
+}
+
+.navbar-color a:hover {
+    color: grey;
+}
+
+.btn-navbar {
+    background: rgb(240, 77, 77);
+    color: white;
+    border: 1px solid rgb(240, 77, 77);
+    border-radius: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 80px;
+}
+
+.nav-logo {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 15%;
+}
