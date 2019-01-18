@@ -22,3 +22,30 @@
     font-weight: bold;
     margin-left: 15%;
 }
+
+
+.box:hover {
+    background-image: linear-gradient(rgb(98, 0, 255), rgba(149, 17, 167, 0.692));
+    color: white;
+
+}
+
+.box {
+    padding: 3%;
+
+
+}
+
+
+.fas {
+    color: rgba(255, 0, 0, 0.836);
+}
+
+.fas:hover {
+    color: white;
+}
+
+
+.my-5 {
+    margin-top: 5rem;
+}
