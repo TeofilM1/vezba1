@@ -1,0 +1,24 @@
+.pozadina {
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    content: 'PORTFOLIO';
+    color: black;
+    
+}
+
+.naslov {
+    color: white;
+    margin-top: 5vh;
+    margin-bottom: 15vh;
+}
+
+.top h4,h1,button {
+    margin-top: 20px;
+}
+
+.bel {
+    color: black;
+    width: 150px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+}
