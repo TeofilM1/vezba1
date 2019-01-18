@@ -22,3 +22,13 @@
     border: none;
     border-radius: 50px;
 }
+
+.slika {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.slika:hover .overlay {
+    opacity: 1;
+    cursor: pointer;
+  }
